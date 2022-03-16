@@ -15,5 +15,6 @@ sum = sum + y;
 }
 }
 printf("%d\n", sum);
+}
 return (0);
 }
